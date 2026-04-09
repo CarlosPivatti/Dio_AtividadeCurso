@@ -40,5 +40,8 @@ Interação com a AI:
 
 **"Projeto focado na utilização do NotebookLM para organizar estudos de Arquitetura de Software. O foco foi aplicar engenharia de prompts para transformar documentações densas em resumos práticos e glossários técnicos, demonstrando pensamento crítico na curadoria de fontes."**
 
+
+Resultado: https://notebooklm.google.com/notebook/03449d45-53d4-4b3c-a2cd-18ec661974eb
+
 # Dio_AtividadeCurso
 Arquitetura de Sistemas e Clean Code
